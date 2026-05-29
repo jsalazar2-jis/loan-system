@@ -1,0 +1,6 @@
+git init
+git add .
+git commit -m "Sistema completo"
+git branch -M main
+git remote add origin https://github.com/jsalazar2-jis/loan-system.git
+git push -u origin main
