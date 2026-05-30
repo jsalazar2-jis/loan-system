@@ -2,7 +2,7 @@
 
 Proyecto de Ingeniería de Software - UMG
 
-## 📌 Descripción
+## Descripción
 Sistema para gestionar el ciclo completo de préstamos:
 - Solicitud
 - Evaluación
@@ -10,24 +10,24 @@ Sistema para gestionar el ciclo completo de préstamos:
 - Desembolso
 - Pagos y mora
 
-## 🧩 Funcionalidades principales
+## Funcionalidades principales
 - Registro de solicitudes
 - Evaluación crediticia
 - Aprobación por niveles
 - Gestión de pagos
 - Reportes gerenciales
 
-## 🏗️ Arquitectura
+## Arquitectura
 - Arquitectura en capas
 - API REST
 - Base de datos relacional
 
-## 🚀 Metodología
+## Metodología
 - Scrum
 - GitHub Flow
 - CI/CD con GitHub Actions
 
-## 📁 Documentación
+## Documentación
 - Fase 1: `/docs/fase1`
 
 ## 👨‍💻 Autor
