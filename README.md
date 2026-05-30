@@ -29,6 +29,3 @@ Sistema para gestionar el ciclo completo de préstamos:
 
 ## Documentación
 - Fase 1: `/docs/fase1`
-
-## 👨‍💻 Autor
-José Iván Salazar
